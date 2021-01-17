@@ -1,0 +1,17 @@
+* {
+  margin: auto;
+  justify-content: center;
+  align-items: center;
+    box-sizing: border-box;
+    
+}
+
+.container{
+
+  background-image: linear-gradient(180deg, gray, white);
+}
+
+.button{
+  background-color: transparent;
+border: transparent;
+}
